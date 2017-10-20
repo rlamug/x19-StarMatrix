@@ -15,15 +15,11 @@ int main(){
 
         if(row <= 0)
         {
-
-                cout<<""<<endl;
-
+                
         }
         else if(col <= 0)
         {
-
-                cout<<""<<endl;
-
+                
         }
         else
         {
